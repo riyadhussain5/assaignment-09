@@ -1,0 +1,38 @@
+.pick-form{
+    border: 1px solid white;
+    
+    background-color: #f37623;
+    width: 400px;
+  margin: 20px;
+  padding:40px;
+  text-align:center;
+}
+
+  
+  
+
+.Final-Button{
+  background-color:rgb(58, 103, 226);
+  width:100px;
+  height: 25px;
+  border: 1px solid orange;
+  border-radius: 10px;
+}
+
+
+.Destination{
+    text-align: center;
+     display: flex;
+}
+.image-Box img{
+    height: 300px;
+    width: 450px;
+   
+    
+ 
+  
+  margin-top:35px;
+  margin-left: 60%;
+  
+    
+}

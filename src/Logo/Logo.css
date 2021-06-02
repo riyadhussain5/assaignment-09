@@ -1,0 +1,39 @@
+.header img {
+    height: 80px;
+    
+}
+.header {
+    text-align:center;
+    
+}
+.header nav{
+   
+   height: 40px;
+
+
+}
+nav a{
+    
+    margin-right: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    padding: 20px
+    
+}
+nav a:hover{
+    color: rgb(235, 52, 6);
+}
+
+
+.Login{
+    background-color: rgb(255, 123, 0);
+    width: 100px;
+height: 30px;
+border-radius:10px;
+border: 1px solid rgba(255, 255, 255, 0.678);
+}
+
+    
+
+

@@ -1,0 +1,58 @@
+.all-Text{
+    text-align: center;
+    
+}
+
+.first-Box{
+    background-image: url('../image/Group\ 33143.png');
+    position: fixed;
+  min-width: 15%;
+  min-height: 50%;
+  background-size: cover;
+  background-position: center;
+  margin-top:100px;
+  margin-left: 5%;
+}
+.second-Box{
+    background-image: url('../image/Group\ 33142.png');
+    position: fixed;
+  min-width: 15%;
+  min-height: 50%;
+  background-size: cover;
+  background-position:center;
+  margin-top:100px;
+  margin-left:28%;
+}
+.third-Box{
+    background-image: url('../image/Group\ 33144.png');
+    position: fixed;
+  min-width: 18%;
+  min-height: 50%;
+  background-size: cover;
+  background-position:center;
+  margin-top:100px;
+  margin-left:51.5%;
+}
+.fourth-Box{
+    background-image: url('../image/Group\ 33145.png');
+    position: fixed;
+     min-width: 18%;
+     min-height: 50%;
+    background-size: cover;
+    background-position:center;
+    margin-top:100px;
+    margin-left:75%; 
+}
+.click{
+background-color: rgb(241, 185, 43);
+width: 100px;
+height: 30px;
+border-radius:10px;
+border: 1px solid rgba(255, 255, 255, 0.678);
+
+
+
+}
+.text{
+  text-decoration: none;
+}

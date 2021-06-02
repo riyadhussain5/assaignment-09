@@ -1,6 +1,15 @@
-.App {
-  text-align: center;
+.App{
+  background-image:url('./image/image\ 7.png');
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+
 }
+
+
+
 
 .App-logo {
   height: 40vmin;
