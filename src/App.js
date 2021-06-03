@@ -33,7 +33,7 @@ function App() {
   <DestinationContext.Provider value={[pick,setPick]}>
 
   
-<p style={{color:'white'}}>email:{logginuser.email}</p>
+<p className='email'>Email: {logginuser.email}</p>
 
 <Router>
   
